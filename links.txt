@@ -1,6 +1,0 @@
-#Electronics
-    http://www.simonegiertz.com/
-    Guide to Different Electric Motors: https://www.youtube.com/watch?v=SrPHQh-M3pM
-
-#Arduino 
-
