@@ -7,7 +7,7 @@ high signal on its output pin.
 
 Datasheets:
 
-- [Parallax PIR Sensor (#555-28027)](555-28027-PIR-Sensor-Product-Guide-v2.3.pdf)
+- [Parallax PIR Sensor (#555-28027)](pdfs/555-28027-PIR-Sensor-Product-Guide-v2.3.pdf)
 
 Using PIR sensors with Arduinos
 
