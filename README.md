@@ -5,6 +5,7 @@ Helpful resources for Arduino For Everyone 2019
 1. [Books](books/readme.md)
 2. [Op Amps](op-amps/readme.md)
 3. [Online Circuit Simulator](https://www.circuitlab.com/)
+4. [Sensors](sensors/readme.md)
 
 ## About MarkDown
 
